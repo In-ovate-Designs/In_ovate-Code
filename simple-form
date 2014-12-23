@@ -1,0 +1,39 @@
+<DOCTYPE html>
+<html>
+<head>
+    <title>CSS3 Contact Form - by Glenn batchler 12/23/2014</title>
+	<meta charaset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="style.css" media="all" />	
+</head>
+<body>
+    
+	<h2>Contact Form</h2>
+	
+	<form class="form">
+	    
+		<p class="name">
+		    <input type="text" name="name" id="name" placeholder="John Doe" />
+			<label for="name">Name</label> 
+		</p>
+		
+		<p class="email">
+		    <input type="text" name="email" id="email" placeholder="email@example.com" />
+			<label for="email">Email</label> 
+		</p>
+		
+		<p class="web">
+		    <input type="text" name="web" id="web" placeholder="www.example.com" />
+			<label for="web">Website</label> 
+		</p>
+		
+		<p class="text">
+            <textarea name="text" placeholder="Write something to us." /></textarea>		    
+		</p>
+
+        <p class="submit">
+		    <input type="submit" value="Send" />
+		</p>
+		
+	</form>
+</body>
+</html>
