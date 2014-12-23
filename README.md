@@ -1,5 +1,5 @@
 sample-1
 ========
-This is a simple form that any novice can copy and use to send and receive emails. The back-end process can be any programming language (php, java, perl etc.). 
+This Repository will consist of simple code for any novice to copy and use. For example to send and receive emails, to setup a simple landing page. Coding language will be HTML, CSS, and Javascript. 
 
 HTML5 Work Space
